@@ -6,7 +6,7 @@ O problema de calcular as raízes reais de uma equação tem sido objeto de estu
 
 # Funcionalidades
 
-- Método da Bisseção
+Método da Bisseção
 - Baseia-se no Teorema de Bolzano, que garante a existência de uma raiz em um intervalo fechado onde a função troca de sinal.
 - O método itera dividindo o intervalo pela metade e selecionando subintervalos onde a função muda de sinal até atingir a precisão desejada.
 
